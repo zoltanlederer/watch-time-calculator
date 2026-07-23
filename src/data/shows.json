@@ -1,0 +1,2630 @@
+[
+  {
+    "title": "2 Broke Girls",
+    "episodeMinutes": 25,
+    "episodeCount": 138,
+    "year": 2011
+  },
+  {
+    "title": "3rd Rock from the Sun",
+    "episodeMinutes": 22,
+    "episodeCount": 139,
+    "year": 1996
+  },
+  {
+    "title": "7th Heaven",
+    "episodeMinutes": 44,
+    "episodeCount": 243,
+    "year": 1996
+  },
+  {
+    "title": "8 Simple Rules",
+    "episodeMinutes": 30,
+    "episodeCount": 75,
+    "year": 2002
+  },
+  {
+    "title": "9-1-1",
+    "episodeMinutes": 43,
+    "episodeCount": 124,
+    "year": 2018
+  },
+  {
+    "title": "9-1-1: Lone Star",
+    "episodeMinutes": 43,
+    "episodeCount": 72,
+    "year": 2020
+  },
+  {
+    "title": "10 Things I Hate About You",
+    "episodeMinutes": 25,
+    "episodeCount": 20,
+    "year": 2009
+  },
+  {
+    "title": "24",
+    "episodeMinutes": 45,
+    "episodeCount": 205,
+    "year": 2001
+  },
+  {
+    "title": "30 Rock",
+    "episodeMinutes": 22,
+    "episodeCount": 136,
+    "year": 2006
+  },
+  {
+    "title": "56 Days",
+    "episodeMinutes": 50,
+    "episodeCount": 8,
+    "year": 2026
+  },
+  {
+    "title": "The A-Team",
+    "episodeMinutes": 45,
+    "episodeCount": 95,
+    "year": 1983
+  },
+  {
+    "title": "Aaahh!!! Real Monsters",
+    "episodeMinutes": 11,
+    "episodeCount": 52,
+    "year": 1994
+  },
+  {
+    "title": "According to Jim",
+    "episodeMinutes": 30,
+    "episodeCount": 182,
+    "year": 2001
+  },
+  {
+    "title": "The Addams Family",
+    "episodeMinutes": 30,
+    "episodeCount": 80,
+    "year": 1964
+  },
+  {
+    "title": "Adventure Time",
+    "episodeMinutes": 11,
+    "episodeCount": 279,
+    "year": 2010
+  },
+  {
+    "title": "After Life",
+    "episodeMinutes": 30,
+    "episodeCount": 18,
+    "year": 2019
+  },
+  {
+    "title": "Ahsoka",
+    "episodeMinutes": 50,
+    "episodeCount": 8,
+    "year": 2023
+  },
+  {
+    "title": "ALF",
+    "episodeMinutes": 23,
+    "episodeCount": 100,
+    "year": 1986
+  },
+  {
+    "title": "Alien Worlds",
+    "episodeMinutes": 42,
+    "episodeCount": 4,
+    "year": 2020
+  },
+  {
+    "title": "Almost Paradise",
+    "episodeMinutes": 45,
+    "episodeCount": 20,
+    "year": 2020
+  },
+  {
+    "title": "American Chopper",
+    "episodeMinutes": 42,
+    "episodeCount": 5,
+    "year": 2002
+  },
+  {
+    "title": "Andor",
+    "episodeMinutes": 60,
+    "episodeCount": 24,
+    "year": 2022
+  },
+  {
+    "title": "Angel",
+    "episodeMinutes": 45,
+    "episodeCount": 110,
+    "year": 1999
+  },
+  {
+    "title": "Anger Management",
+    "episodeMinutes": 22,
+    "episodeCount": 100,
+    "year": 2012
+  },
+  {
+    "title": "Angie Tribeca",
+    "episodeMinutes": 25,
+    "episodeCount": 40,
+    "year": 2016
+  },
+  {
+    "title": "Angyalborben",
+    "episodeMinutes": 13,
+    "episodeCount": 13,
+    "year": 1990
+  },
+  {
+    "title": "Animaniacs",
+    "episodeMinutes": 21,
+    "episodeCount": 99,
+    "year": 1993
+  },
+  {
+    "title": "Arcane",
+    "episodeMinutes": 40,
+    "episodeCount": 18,
+    "year": 2021
+  },
+  {
+    "title": "Arrested Development",
+    "episodeMinutes": 22,
+    "episodeCount": 46,
+    "year": 2003
+  },
+  {
+    "title": "The Artful Dodger",
+    "episodeMinutes": 50,
+    "episodeCount": 16,
+    "year": 2023
+  },
+  {
+    "title": "As We See It",
+    "episodeMinutes": 30,
+    "episodeCount": 8,
+    "year": 2022
+  },
+  {
+    "title": "The Avengers: Earth's Mightiest Heroes",
+    "episodeMinutes": 22,
+    "episodeCount": 52,
+    "year": 2010
+  },
+  {
+    "title": "Bad Education",
+    "episodeMinutes": 30,
+    "episodeCount": 19,
+    "year": 2012
+  },
+  {
+    "title": "Barry",
+    "episodeMinutes": 30,
+    "episodeCount": 32,
+    "year": 2018
+  },
+  {
+    "title": "Batman Beyond",
+    "episodeMinutes": 24,
+    "episodeCount": 54,
+    "year": 1999
+  },
+  {
+    "title": "Batman: Caped Crusader",
+    "episodeMinutes": 26,
+    "episodeCount": 10,
+    "year": 2024
+  },
+  {
+    "title": "Batman: The Animated Series",
+    "episodeMinutes": 23,
+    "episodeCount": 100,
+    "year": 1992
+  },
+  {
+    "title": "Baymax!",
+    "episodeMinutes": 12,
+    "episodeCount": 6,
+    "year": 2022
+  },
+  {
+    "title": "Baywatch",
+    "episodeMinutes": 42,
+    "episodeCount": 198,
+    "year": 1989
+  },
+  {
+    "title": "Becker",
+    "episodeMinutes": 22,
+    "episodeCount": 129,
+    "year": 1998
+  },
+  {
+    "title": "Bel-Air",
+    "episodeMinutes": 51,
+    "episodeCount": 38,
+    "year": 2022
+  },
+  {
+    "title": "Der Bergdoktor",
+    "episodeMinutes": 45,
+    "episodeCount": 32,
+    "year": 2008
+  },
+  {
+    "title": "Better Call Saul",
+    "episodeMinutes": 45,
+    "episodeCount": 63,
+    "year": 2015
+  },
+  {
+    "title": "The Big Bang Theory",
+    "episodeMinutes": 22,
+    "episodeCount": 279,
+    "year": 2007
+  },
+  {
+    "title": "Black Doves",
+    "episodeMinutes": 55,
+    "episodeCount": 6,
+    "year": 2024
+  },
+  {
+    "title": "Black Mirror",
+    "episodeMinutes": 60,
+    "episodeCount": 32,
+    "year": 2011
+  },
+  {
+    "title": "Blackadder",
+    "episodeMinutes": 32,
+    "episodeCount": 24,
+    "year": 1983
+  },
+  {
+    "title": "Blade",
+    "episodeMinutes": 25,
+    "episodeCount": 12,
+    "year": 2011
+  },
+  {
+    "title": "Blindspot",
+    "episodeMinutes": 42,
+    "episodeCount": 100,
+    "year": 2015
+  },
+  {
+    "title": "Blood & Treasure",
+    "episodeMinutes": 40,
+    "episodeCount": 26,
+    "year": 2019
+  },
+  {
+    "title": "Blue Bloods",
+    "episodeMinutes": 43,
+    "episodeCount": 275,
+    "year": 2010
+  },
+  {
+    "title": "Blue Planet II",
+    "episodeMinutes": 60,
+    "episodeCount": 7,
+    "year": 2017
+  },
+  {
+    "title": "Bob's Burgers",
+    "episodeMinutes": 22,
+    "episodeCount": 238,
+    "year": 2011
+  },
+  {
+    "title": "BoJack Horseman",
+    "episodeMinutes": 25,
+    "episodeCount": 77,
+    "year": 2014
+  },
+  {
+    "title": "Bonding",
+    "episodeMinutes": 18,
+    "episodeCount": 7,
+    "year": 2018
+  },
+  {
+    "title": "Bones",
+    "episodeMinutes": 40,
+    "episodeCount": 246,
+    "year": 2005
+  },
+  {
+    "title": "Boo, Bitch",
+    "episodeMinutes": 25,
+    "episodeCount": 8,
+    "year": 2022
+  },
+  {
+    "title": "The Book of Boba Fett",
+    "episodeMinutes": 50,
+    "episodeCount": 7,
+    "year": 2021
+  },
+  {
+    "title": "The Boys",
+    "episodeMinutes": 60,
+    "episodeCount": 32,
+    "year": 2019
+  },
+  {
+    "title": "Breaking Bad",
+    "episodeMinutes": 48,
+    "episodeCount": 62,
+    "year": 2008
+  },
+  {
+    "title": "Brian Cox's Adventures in Space and Time",
+    "episodeMinutes": 59,
+    "episodeCount": 4,
+    "year": 2021
+  },
+  {
+    "title": "Brilliant Minds",
+    "episodeMinutes": 42,
+    "episodeCount": 33,
+    "year": 2024
+  },
+  {
+    "title": "Brooklyn Nine-Nine",
+    "episodeMinutes": 22,
+    "episodeCount": 260,
+    "year": 2013
+  },
+  {
+    "title": "Buffy the Vampire Slayer",
+    "episodeMinutes": 45,
+    "episodeCount": 144,
+    "year": 1997
+  },
+  {
+    "title": "Californication",
+    "episodeMinutes": 28,
+    "episodeCount": 84,
+    "year": 2007
+  },
+  {
+    "title": "Carol & the End of the World",
+    "episodeMinutes": 29,
+    "episodeCount": 10,
+    "year": 2023
+  },
+  {
+    "title": "The Carrie Diaries",
+    "episodeMinutes": 42,
+    "episodeCount": 26,
+    "year": 2013
+  },
+  {
+    "title": "Castle (2009)",
+    "episodeMinutes": 45,
+    "episodeCount": 173,
+    "year": 2009
+  },
+  {
+    "title": "Charmed",
+    "episodeMinutes": 42,
+    "episodeCount": 175,
+    "year": 1998
+  },
+  {
+    "title": "Cheers",
+    "episodeMinutes": 22,
+    "episodeCount": 274,
+    "year": 1982
+  },
+  {
+    "title": "Chicago Fire",
+    "episodeMinutes": 42,
+    "episodeCount": 195,
+    "year": 2012
+  },
+  {
+    "title": "Chicago Med",
+    "episodeMinutes": 45,
+    "episodeCount": 119,
+    "year": 2015
+  },
+  {
+    "title": "Chicago P.D.",
+    "episodeMinutes": 45,
+    "episodeCount": 264,
+    "year": 2014
+  },
+  {
+    "title": "Chilling Adventures of Sabrina",
+    "episodeMinutes": 60,
+    "episodeCount": 47,
+    "year": 2018
+  },
+  {
+    "title": "Chip 'n Dale Rescue Rangers",
+    "episodeMinutes": 22,
+    "episodeCount": 65,
+    "year": 1989
+  },
+  {
+    "title": "Chuck",
+    "episodeMinutes": 43,
+    "episodeCount": 91,
+    "year": 2007
+  },
+  {
+    "title": "Clarissa Explains It All",
+    "episodeMinutes": 30,
+    "episodeCount": 13,
+    "year": 1991
+  },
+  {
+    "title": "The Cleveland Show",
+    "episodeMinutes": 22,
+    "episodeCount": 88,
+    "year": 2009
+  },
+  {
+    "title": "The Client List",
+    "episodeMinutes": 40,
+    "episodeCount": 26,
+    "year": 2012
+  },
+  {
+    "title": "Cobra Kai",
+    "episodeMinutes": 30,
+    "episodeCount": 65,
+    "year": 2018
+  },
+  {
+    "title": "Cold Case",
+    "episodeMinutes": 44,
+    "episodeCount": 156,
+    "year": 2003
+  },
+  {
+    "title": "Columbo",
+    "episodeMinutes": 100,
+    "episodeCount": 69,
+    "year": 1971
+  },
+  {
+    "title": "Community",
+    "episodeMinutes": 22,
+    "episodeCount": 110,
+    "year": 2009
+  },
+  {
+    "title": "Cosmos",
+    "episodeMinutes": 60,
+    "episodeCount": 13,
+    "year": 1980
+  },
+  {
+    "title": "Cosmos (2014)",
+    "episodeMinutes": 45,
+    "episodeCount": 13,
+    "year": 2014
+  },
+  {
+    "title": "Cosmos: Possible Worlds",
+    "episodeMinutes": 45,
+    "episodeCount": 13,
+    "year": 2020
+  },
+  {
+    "title": "Cougar Town",
+    "episodeMinutes": 30,
+    "episodeCount": 102,
+    "year": 2009
+  },
+  {
+    "title": "Coupling",
+    "episodeMinutes": 30,
+    "episodeCount": 28,
+    "year": 2000
+  },
+  {
+    "title": "Crazy Ex-Girlfriend",
+    "episodeMinutes": 43,
+    "episodeCount": 62,
+    "year": 2015
+  },
+  {
+    "title": "The Crazy Ones",
+    "episodeMinutes": 20,
+    "episodeCount": 22,
+    "year": 2013
+  },
+  {
+    "title": "Criminal Minds",
+    "episodeMinutes": 42,
+    "episodeCount": 353,
+    "year": 2005
+  },
+  {
+    "title": "The Croods: Family Tree",
+    "episodeMinutes": 24,
+    "episodeCount": 52,
+    "year": 2021
+  },
+  {
+    "title": "CSI: Crime Scene Investigation",
+    "episodeMinutes": 43,
+    "episodeCount": 334,
+    "year": 2000
+  },
+  {
+    "title": "CSI: Cyber",
+    "episodeMinutes": 42,
+    "episodeCount": 31,
+    "year": 2015
+  },
+  {
+    "title": "CSI: Miami",
+    "episodeMinutes": 42,
+    "episodeCount": 232,
+    "year": 2002
+  },
+  {
+    "title": "CSI: NY",
+    "episodeMinutes": 42,
+    "episodeCount": 197,
+    "year": 2004
+  },
+  {
+    "title": "CSI: Vegas",
+    "episodeMinutes": 43,
+    "episodeCount": 31,
+    "year": 2021
+  },
+  {
+    "title": "Curb Your Enthusiasm",
+    "episodeMinutes": 30,
+    "episodeCount": 60,
+    "year": 2000
+  },
+  {
+    "title": "Dallas",
+    "episodeMinutes": 45,
+    "episodeCount": 308,
+    "year": 1978
+  },
+  {
+    "title": "The Day the Universe Changed",
+    "episodeMinutes": 55,
+    "episodeCount": 10,
+    "year": 1985
+  },
+  {
+    "title": "The Deuce",
+    "episodeMinutes": 60,
+    "episodeCount": 25,
+    "year": 2017
+  },
+  {
+    "title": "Dexter",
+    "episodeMinutes": 60,
+    "episodeCount": 108,
+    "year": 2006
+  },
+  {
+    "title": "Dexter: New Blood",
+    "episodeMinutes": 60,
+    "episodeCount": 10,
+    "year": 2021
+  },
+  {
+    "title": "Dexter: Original Sin",
+    "episodeMinutes": 60,
+    "episodeCount": 10,
+    "year": 2024
+  },
+  {
+    "title": "Dexter: Resurrection",
+    "episodeMinutes": 50,
+    "episodeCount": 10,
+    "year": 2025
+  },
+  {
+    "title": "Diagnosis Murder",
+    "episodeMinutes": 45,
+    "episodeCount": 156,
+    "year": 1993
+  },
+  {
+    "title": "DON'T TOY WITH ME, MISS NAGATORO",
+    "episodeMinutes": 24,
+    "episodeCount": 24,
+    "year": 2021
+  },
+  {
+    "title": "Don't Trust the B---- in Apartment 23",
+    "episodeMinutes": 22,
+    "episodeCount": 26,
+    "year": 2012
+  },
+  {
+    "title": "Dragons: The Nine Realms",
+    "episodeMinutes": 24,
+    "episodeCount": 52,
+    "year": 2021
+  },
+  {
+    "title": "Earth",
+    "episodeMinutes": 60,
+    "episodeCount": 5,
+    "year": 2023
+  },
+  {
+    "title": "Earth Abides",
+    "episodeMinutes": 52,
+    "episodeCount": 6,
+    "year": 2024
+  },
+  {
+    "title": "Elementary",
+    "episodeMinutes": 43,
+    "episodeCount": 154,
+    "year": 2012
+  },
+  {
+    "title": "Elsbeth",
+    "episodeMinutes": 43,
+    "episodeCount": 50,
+    "year": 2024
+  },
+  {
+    "title": "The Empress",
+    "episodeMinutes": 60,
+    "episodeCount": 12,
+    "year": 2022
+  },
+  {
+    "title": "Episodes",
+    "episodeMinutes": 30,
+    "episodeCount": 41,
+    "year": 2011
+  },
+  {
+    "title": "ER",
+    "episodeMinutes": 45,
+    "episodeCount": 331,
+    "year": 1994
+  },
+  {
+    "title": "Euphoria (US)",
+    "episodeMinutes": 60,
+    "episodeCount": 26,
+    "year": 2019
+  },
+  {
+    "title": "Everybody Loves Raymond",
+    "episodeMinutes": 30,
+    "episodeCount": 211,
+    "year": 1996
+  },
+  {
+    "title": "Expedition: Back to the Future",
+    "episodeMinutes": 45,
+    "episodeCount": 4,
+    "year": 2021
+  },
+  {
+    "title": "Eyes of Wakanda",
+    "episodeMinutes": 30,
+    "episodeCount": 4,
+    "year": 2025
+  },
+  {
+    "title": "Family Guy",
+    "episodeMinutes": 22,
+    "episodeCount": 436,
+    "year": 1999
+  },
+  {
+    "title": "Family Ties",
+    "episodeMinutes": 30,
+    "episodeCount": 173,
+    "year": 1982
+  },
+  {
+    "title": "Fast & Furious: Spy Racers",
+    "episodeMinutes": 25,
+    "episodeCount": 52,
+    "year": 2019
+  },
+  {
+    "title": "FBI",
+    "episodeMinutes": 60,
+    "episodeCount": 135,
+    "year": 2018
+  },
+  {
+    "title": "FBI: International",
+    "episodeMinutes": 43,
+    "episodeCount": 78,
+    "year": 2021
+  },
+  {
+    "title": "FBI: Most Wanted",
+    "episodeMinutes": 45,
+    "episodeCount": 108,
+    "year": 2020
+  },
+  {
+    "title": "Firefly",
+    "episodeMinutes": 45,
+    "episodeCount": 14,
+    "year": 2002
+  },
+  {
+    "title": "The Flintstones",
+    "episodeMinutes": 25,
+    "episodeCount": 166,
+    "year": 1960
+  },
+  {
+    "title": "Forces of Nature with Brian Cox",
+    "episodeMinutes": 60,
+    "episodeCount": 4,
+    "year": 2016
+  },
+  {
+    "title": "Frasier",
+    "episodeMinutes": 24,
+    "episodeCount": 257,
+    "year": 1993
+  },
+  {
+    "title": "Frasier (2023)",
+    "episodeMinutes": 30,
+    "episodeCount": 20,
+    "year": 2023
+  },
+  {
+    "title": "Freaks and Geeks",
+    "episodeMinutes": 44,
+    "episodeCount": 18,
+    "year": 1999
+  },
+  {
+    "title": "The Fresh Prince of Bel-Air",
+    "episodeMinutes": 23,
+    "episodeCount": 148,
+    "year": 1990
+  },
+  {
+    "title": "Friends",
+    "episodeMinutes": 22,
+    "episodeCount": 236,
+    "year": 1994
+  },
+  {
+    "title": "Fringe",
+    "episodeMinutes": 46,
+    "episodeCount": 100,
+    "year": 2008
+  },
+  {
+    "title": "FUBAR",
+    "episodeMinutes": 55,
+    "episodeCount": 16,
+    "year": 2023
+  },
+  {
+    "title": "Full House",
+    "episodeMinutes": 25,
+    "episodeCount": 192,
+    "year": 1987
+  },
+  {
+    "title": "Futurama",
+    "episodeMinutes": 22,
+    "episodeCount": 158,
+    "year": 1999
+  },
+  {
+    "title": "Game of Thrones",
+    "episodeMinutes": 60,
+    "episodeCount": 73,
+    "year": 2011
+  },
+  {
+    "title": "Genius (2017)",
+    "episodeMinutes": 43,
+    "episodeCount": 10,
+    "year": 2017
+  },
+  {
+    "title": "Georgie & Mandy's First Marriage",
+    "episodeMinutes": 20,
+    "episodeCount": 44,
+    "year": 2024
+  },
+  {
+    "title": "Ghost Whisperer",
+    "episodeMinutes": 60,
+    "episodeCount": 107,
+    "year": 2005
+  },
+  {
+    "title": "Ghosts (US)",
+    "episodeMinutes": 21,
+    "episodeCount": 45,
+    "year": 2021
+  },
+  {
+    "title": "Gilmore Girls",
+    "episodeMinutes": 44,
+    "episodeCount": 153,
+    "year": 2000
+  },
+  {
+    "title": "The Glee Project",
+    "episodeMinutes": 44,
+    "episodeCount": 123,
+    "year": 2011
+  },
+  {
+    "title": "Glitch",
+    "episodeMinutes": 60,
+    "episodeCount": 10,
+    "year": 2022
+  },
+  {
+    "title": "God Friended Me",
+    "episodeMinutes": 42,
+    "episodeCount": 42,
+    "year": 2018
+  },
+  {
+    "title": "The Golden Girls",
+    "episodeMinutes": 24,
+    "episodeCount": 151,
+    "year": 1985
+  },
+  {
+    "title": "The Good Place",
+    "episodeMinutes": 22,
+    "episodeCount": 51,
+    "year": 2016
+  },
+  {
+    "title": "Goodbye Earth",
+    "episodeMinutes": 60,
+    "episodeCount": 12,
+    "year": 2024
+  },
+  {
+    "title": "Grand Blue Dreaming",
+    "episodeMinutes": 24,
+    "episodeCount": 12,
+    "year": 2018
+  },
+  {
+    "title": "The Green Planet",
+    "episodeMinutes": 59,
+    "episodeCount": 5,
+    "year": 2022
+  },
+  {
+    "title": "Guys",
+    "episodeMinutes": 30,
+    "episodeCount": 71,
+    "year": 2000
+  },
+  {
+    "title": "H2O: Just Add Water",
+    "episodeMinutes": 24,
+    "episodeCount": 78,
+    "year": 2006
+  },
+  {
+    "title": "Hannah Montana",
+    "episodeMinutes": 23,
+    "episodeCount": 99,
+    "year": 2006
+  },
+  {
+    "title": "Happy Days",
+    "episodeMinutes": 22,
+    "episodeCount": 251,
+    "year": 1974
+  },
+  {
+    "title": "Happy Endings",
+    "episodeMinutes": 22,
+    "episodeCount": 57,
+    "year": 2011
+  },
+  {
+    "title": "Happy Together",
+    "episodeMinutes": 22,
+    "episodeCount": 13,
+    "year": 2018
+  },
+  {
+    "title": "HAPPYish",
+    "episodeMinutes": 30,
+    "episodeCount": 10,
+    "year": 2015
+  },
+  {
+    "title": "Harley Quinn",
+    "episodeMinutes": 23,
+    "episodeCount": 56,
+    "year": 2019
+  },
+  {
+    "title": "Hawaii Five-0",
+    "episodeMinutes": 42,
+    "episodeCount": 240,
+    "year": 2010
+  },
+  {
+    "title": "Headspace Guide to Meditation",
+    "episodeMinutes": 20,
+    "episodeCount": 8,
+    "year": 2021
+  },
+  {
+    "title": "Headspace Guide to Sleep",
+    "episodeMinutes": 18,
+    "episodeCount": 7,
+    "year": 2021
+  },
+  {
+    "title": "Heroes",
+    "episodeMinutes": 43,
+    "episodeCount": 20,
+    "year": 2006
+  },
+  {
+    "title": "Heroes Reborn",
+    "episodeMinutes": 43,
+    "episodeCount": 12,
+    "year": 2015
+  },
+  {
+    "title": "Heti Hetes",
+    "episodeMinutes": 52,
+    "episodeCount": 536,
+    "year": 1999
+  },
+  {
+    "title": "Hey Arnold!",
+    "episodeMinutes": 12,
+    "episodeCount": 189,
+    "year": 1996
+  },
+  {
+    "title": "The History of Hungary",
+    "episodeMinutes": 1150,
+    "episodeCount": 46,
+    "year": 2009
+  },
+  {
+    "title": "History of the World, Part II",
+    "episodeMinutes": 30,
+    "episodeCount": 8,
+    "year": 2023
+  },
+  {
+    "title": "Home Improvement",
+    "episodeMinutes": 22,
+    "episodeCount": 204,
+    "year": 1991
+  },
+  {
+    "title": "House",
+    "episodeMinutes": 44,
+    "episodeCount": 176,
+    "year": 2004
+  },
+  {
+    "title": "House of Lies",
+    "episodeMinutes": 30,
+    "episodeCount": 58,
+    "year": 2012
+  },
+  {
+    "title": "House of the Dragon",
+    "episodeMinutes": 60,
+    "episodeCount": 18,
+    "year": 2022
+  },
+  {
+    "title": "How I Met Your Father",
+    "episodeMinutes": 30,
+    "episodeCount": 30,
+    "year": 2022
+  },
+  {
+    "title": "How I Met Your Mother",
+    "episodeMinutes": 22,
+    "episodeCount": 209,
+    "year": 2005
+  },
+  {
+    "title": "How the Universe Works",
+    "episodeMinutes": 42,
+    "episodeCount": 92,
+    "year": 2010
+  },
+  {
+    "title": "How to Make It in America",
+    "episodeMinutes": 30,
+    "episodeCount": 16,
+    "year": 2010
+  },
+  {
+    "title": "The Human Body: Secrets of Your Life Revealed",
+    "episodeMinutes": 60,
+    "episodeCount": 41,
+    "year": 2017
+  },
+  {
+    "title": "Human Planet",
+    "episodeMinutes": 60,
+    "episodeCount": 8,
+    "year": 2011
+  },
+  {
+    "title": "Human Universe",
+    "episodeMinutes": 60,
+    "episodeCount": 5,
+    "year": 2014
+  },
+  {
+    "title": "Hysteria (2014)",
+    "episodeMinutes": 52,
+    "episodeCount": 8,
+    "year": 2014
+  },
+  {
+    "title": "I Am Groot",
+    "episodeMinutes": 4,
+    "episodeCount": 10,
+    "year": 2022
+  },
+  {
+    "title": "Inside Job",
+    "episodeMinutes": 28,
+    "episodeCount": 18,
+    "year": 2021
+  },
+  {
+    "title": "Inspector Rex",
+    "episodeMinutes": 45,
+    "episodeCount": 119,
+    "year": 1994
+  },
+  {
+    "title": "The Invisible Man",
+    "episodeMinutes": 44,
+    "episodeCount": 46,
+    "year": 2000
+  },
+  {
+    "title": "Iron Man (2010)",
+    "episodeMinutes": 24,
+    "episodeCount": 12,
+    "year": 2010
+  },
+  {
+    "title": "Ironheart",
+    "episodeMinutes": 50,
+    "episodeCount": 6,
+    "year": 2025
+  },
+  {
+    "title": "The IT Crowd",
+    "episodeMinutes": 25,
+    "episodeCount": 25,
+    "year": 2006
+  },
+  {
+    "title": "It's Always Sunny in Philadelphia",
+    "episodeMinutes": 22,
+    "episodeCount": 176,
+    "year": 2005
+  },
+  {
+    "title": "JAG",
+    "episodeMinutes": 60,
+    "episodeCount": 227,
+    "year": 1995
+  },
+  {
+    "title": "Jericho (2006)",
+    "episodeMinutes": 60,
+    "episodeCount": 29,
+    "year": 2006
+  },
+  {
+    "title": "Joey",
+    "episodeMinutes": 22,
+    "episodeCount": 46,
+    "year": 2004
+  },
+  {
+    "title": "Jurassic World: Camp Cretaceous",
+    "episodeMinutes": 24,
+    "episodeCount": 49,
+    "year": 2020
+  },
+  {
+    "title": "Jurassic World: Chaos Theory",
+    "episodeMinutes": 24,
+    "episodeCount": 39,
+    "year": 2024
+  },
+  {
+    "title": "Just Beyond",
+    "episodeMinutes": 24,
+    "episodeCount": 8,
+    "year": 2021
+  },
+  {
+    "title": "Justice League Unlimited",
+    "episodeMinutes": 23,
+    "episodeCount": 91,
+    "year": 2004
+  },
+  {
+    "title": "Justified",
+    "episodeMinutes": 45,
+    "episodeCount": 78,
+    "year": 2010
+  },
+  {
+    "title": "KAOS",
+    "episodeMinutes": 60,
+    "episodeCount": 8,
+    "year": 2024
+  },
+  {
+    "title": "Kidding",
+    "episodeMinutes": 30,
+    "episodeCount": 20,
+    "year": 2018
+  },
+  {
+    "title": "The King of Queens",
+    "episodeMinutes": 25,
+    "episodeCount": 207,
+    "year": 1998
+  },
+  {
+    "title": "Kingdom (2025)",
+    "episodeMinutes": 49,
+    "episodeCount": 6,
+    "year": 2025
+  },
+  {
+    "title": "Kingdom of Plants 3D",
+    "episodeMinutes": 45,
+    "episodeCount": 4,
+    "year": 2012
+  },
+  {
+    "title": "Knight Rider",
+    "episodeMinutes": 48,
+    "episodeCount": 90,
+    "year": 1982
+  },
+  {
+    "title": "Kung Fu Panda: The Dragon Knight",
+    "episodeMinutes": 24,
+    "episodeCount": 79,
+    "year": 2022
+  },
+  {
+    "title": "Kung Fu Panda: The Paws of Destiny",
+    "episodeMinutes": 23,
+    "episodeCount": 13,
+    "year": 2018
+  },
+  {
+    "title": "Laid (US)",
+    "episodeMinutes": 31,
+    "episodeCount": 8,
+    "year": 2024
+  },
+  {
+    "title": "Las Vegas",
+    "episodeMinutes": 60,
+    "episodeCount": 106,
+    "year": 2003
+  },
+  {
+    "title": "The Last Dance",
+    "episodeMinutes": 50,
+    "episodeCount": 10,
+    "year": 2020
+  },
+  {
+    "title": "Last Man Standing (2011)",
+    "episodeMinutes": 21,
+    "episodeCount": 194,
+    "year": 2011
+  },
+  {
+    "title": "The Last of Us",
+    "episodeMinutes": 50,
+    "episodeCount": 17,
+    "year": 2023
+  },
+  {
+    "title": "Lethal Weapon",
+    "episodeMinutes": 43,
+    "episodeCount": 55,
+    "year": 2016
+  },
+  {
+    "title": "The Librarians (2014)",
+    "episodeMinutes": 42,
+    "episodeCount": 42,
+    "year": 2014
+  },
+  {
+    "title": "Life",
+    "episodeMinutes": 50,
+    "episodeCount": 10,
+    "year": 2009
+  },
+  {
+    "title": "Life After People",
+    "episodeMinutes": 60,
+    "episodeCount": 374,
+    "year": 2009
+  },
+  {
+    "title": "Life on Our Planet",
+    "episodeMinutes": 60,
+    "episodeCount": 12,
+    "year": 2023
+  },
+  {
+    "title": "Life Story",
+    "episodeMinutes": 60,
+    "episodeCount": 6,
+    "year": 2014
+  },
+  {
+    "title": "Life with Louie",
+    "episodeMinutes": 30,
+    "episodeCount": 66,
+    "year": 1994
+  },
+  {
+    "title": "Limitless",
+    "episodeMinutes": 45,
+    "episodeCount": 22,
+    "year": 2015
+  },
+  {
+    "title": "Lioness",
+    "episodeMinutes": 42,
+    "episodeCount": 16,
+    "year": 2023
+  },
+  {
+    "title": "Little Demon",
+    "episodeMinutes": 26,
+    "episodeCount": 10,
+    "year": 2022
+  },
+  {
+    "title": "Live to 100: Secrets of the Blue Zones",
+    "episodeMinutes": 40,
+    "episodeCount": 4,
+    "year": 2023
+  },
+  {
+    "title": "Lizzie McGuire",
+    "episodeMinutes": 22,
+    "episodeCount": 65,
+    "year": 2001
+  },
+  {
+    "title": "Lois & Clark: The New Adventures of Superman",
+    "episodeMinutes": 46,
+    "episodeCount": 87,
+    "year": 1993
+  },
+  {
+    "title": "The Lone Gunmen",
+    "episodeMinutes": 45,
+    "episodeCount": 2,
+    "year": 2001
+  },
+  {
+    "title": "The Lord of the Rings: The Rings of Power",
+    "episodeMinutes": 60,
+    "episodeCount": 16,
+    "year": 2022
+  },
+  {
+    "title": "Lost in Space (2018)",
+    "episodeMinutes": 56,
+    "episodeCount": 28,
+    "year": 2018
+  },
+  {
+    "title": "The Lost World",
+    "episodeMinutes": 44,
+    "episodeCount": 66,
+    "year": 1999
+  },
+  {
+    "title": "Lucifer",
+    "episodeMinutes": 45,
+    "episodeCount": 93,
+    "year": 2016
+  },
+  {
+    "title": "Lucky Louie",
+    "episodeMinutes": 30,
+    "episodeCount": 13,
+    "year": 2006
+  },
+  {
+    "title": "Lupin",
+    "episodeMinutes": 45,
+    "episodeCount": 12,
+    "year": 2021
+  },
+  {
+    "title": "MacGyver",
+    "episodeMinutes": 45,
+    "episodeCount": 139,
+    "year": 1985
+  },
+  {
+    "title": "The Magic School Bus",
+    "episodeMinutes": 25,
+    "episodeCount": 52,
+    "year": 1994
+  },
+  {
+    "title": "The Magicians (2015)",
+    "episodeMinutes": 45,
+    "episodeCount": 65,
+    "year": 2015
+  },
+  {
+    "title": "Magnum P.I.",
+    "episodeMinutes": 43,
+    "episodeCount": 96,
+    "year": 2018
+  },
+  {
+    "title": "Magnum, P.I.",
+    "episodeMinutes": 45,
+    "episodeCount": 162,
+    "year": 1980
+  },
+  {
+    "title": "Malcolm in the Middle",
+    "episodeMinutes": 22,
+    "episodeCount": 151,
+    "year": 2000
+  },
+  {
+    "title": "Malcolm in the Middle: Life's Still Unfair",
+    "episodeMinutes": 28,
+    "episodeCount": 4,
+    "year": 2026
+  },
+  {
+    "title": "Mammals (2024)",
+    "episodeMinutes": 58,
+    "episodeCount": 6,
+    "year": 2024
+  },
+  {
+    "title": "A Man on the Inside",
+    "episodeMinutes": 30,
+    "episodeCount": 16,
+    "year": 2024
+  },
+  {
+    "title": "Man Vs Bee",
+    "episodeMinutes": 12,
+    "episodeCount": 9,
+    "year": 2022
+  },
+  {
+    "title": "Man vs. Baby",
+    "episodeMinutes": 30,
+    "episodeCount": 4,
+    "year": 2025
+  },
+  {
+    "title": "The Man Who Fell to Earth",
+    "episodeMinutes": 55,
+    "episodeCount": 10,
+    "year": 2022
+  },
+  {
+    "title": "Man with a Plan",
+    "episodeMinutes": 22,
+    "episodeCount": 69,
+    "year": 2016
+  },
+  {
+    "title": "The Mandalorian",
+    "episodeMinutes": 40,
+    "episodeCount": 24,
+    "year": 2019
+  },
+  {
+    "title": "Married... with Children",
+    "episodeMinutes": 22,
+    "episodeCount": 259,
+    "year": 1987
+  },
+  {
+    "title": "Marry My Husband",
+    "episodeMinutes": 63,
+    "episodeCount": 16,
+    "year": 2024
+  },
+  {
+    "title": "Marvel Studios: Legends",
+    "episodeMinutes": 8,
+    "episodeCount": 26,
+    "year": 2021
+  },
+  {
+    "title": "Marvel Zombies",
+    "episodeMinutes": 32,
+    "episodeCount": 4,
+    "year": 2025
+  },
+  {
+    "title": "Marvel's Agent Carter",
+    "episodeMinutes": 43,
+    "episodeCount": 18,
+    "year": 2015
+  },
+  {
+    "title": "Marvel's Agents of S.H.I.E.L.D.",
+    "episodeMinutes": 45,
+    "episodeCount": 136,
+    "year": 2013
+  },
+  {
+    "title": "Marvel's Avengers Assemble",
+    "episodeMinutes": 22,
+    "episodeCount": 126,
+    "year": 2012
+  },
+  {
+    "title": "Marvel's Hit-Monkey",
+    "episodeMinutes": 22,
+    "episodeCount": 20,
+    "year": 2021
+  },
+  {
+    "title": "Marvel's Inhumans",
+    "episodeMinutes": 45,
+    "episodeCount": 8,
+    "year": 2017
+  },
+  {
+    "title": "Marvel's Spider-Man",
+    "episodeMinutes": 21,
+    "episodeCount": 64,
+    "year": 2017
+  },
+  {
+    "title": "Marvel's Ultimate Spider-Man",
+    "episodeMinutes": 21,
+    "episodeCount": 101,
+    "year": 2012
+  },
+  {
+    "title": "Master Eder and his Pumuckl",
+    "episodeMinutes": 25,
+    "episodeCount": 52,
+    "year": 1982
+  },
+  {
+    "title": "Megamind Rules!",
+    "episodeMinutes": 23,
+    "episodeCount": 16,
+    "year": 2024
+  },
+  {
+    "title": "Melissa & Joey",
+    "episodeMinutes": 30,
+    "episodeCount": 104,
+    "year": 2010
+  },
+  {
+    "title": "Men in Black: The Series",
+    "episodeMinutes": 30,
+    "episodeCount": 52,
+    "year": 1997
+  },
+  {
+    "title": "The Mentalist",
+    "episodeMinutes": 43,
+    "episodeCount": 151,
+    "year": 2008
+  },
+  {
+    "title": "The Michael J. Fox Show",
+    "episodeMinutes": 25,
+    "episodeCount": 22,
+    "year": 2013
+  },
+  {
+    "title": "The Middle",
+    "episodeMinutes": 22,
+    "episodeCount": 215,
+    "year": 2009
+  },
+  {
+    "title": "The Miniature Wife",
+    "episodeMinutes": 43,
+    "episodeCount": 10,
+    "year": 2026
+  },
+  {
+    "title": "Miracle Workers",
+    "episodeMinutes": 23,
+    "episodeCount": 28,
+    "year": 2019
+  },
+  {
+    "title": "Missions",
+    "episodeMinutes": 26,
+    "episodeCount": 20,
+    "year": 2017
+  },
+  {
+    "title": "Modern Family",
+    "episodeMinutes": 22,
+    "episodeCount": 251,
+    "year": 2009
+  },
+  {
+    "title": "Mom",
+    "episodeMinutes": 23,
+    "episodeCount": 170,
+    "year": 2013
+  },
+  {
+    "title": "Monk",
+    "episodeMinutes": 44,
+    "episodeCount": 125,
+    "year": 2002
+  },
+  {
+    "title": "Monsters at Work",
+    "episodeMinutes": 22,
+    "episodeCount": 20,
+    "year": 2021
+  },
+  {
+    "title": "Moonlighting",
+    "episodeMinutes": 46,
+    "episodeCount": 66,
+    "year": 1985
+  },
+  {
+    "title": "Mork & Mindy",
+    "episodeMinutes": 30,
+    "episodeCount": 95,
+    "year": 1978
+  },
+  {
+    "title": "Mr. Bean",
+    "episodeMinutes": 25,
+    "episodeCount": 54,
+    "year": 1990
+  },
+  {
+    "title": "Mr. Corman",
+    "episodeMinutes": 28,
+    "episodeCount": 10,
+    "year": 2021
+  },
+  {
+    "title": "Mr. Robot",
+    "episodeMinutes": 45,
+    "episodeCount": 45,
+    "year": 2015
+  },
+  {
+    "title": "My Adventures with Superman",
+    "episodeMinutes": 23,
+    "episodeCount": 26,
+    "year": 2023
+  },
+  {
+    "title": "My Name Is Earl",
+    "episodeMinutes": 22,
+    "episodeCount": 96,
+    "year": 2005
+  },
+  {
+    "title": "My Wife and Kids",
+    "episodeMinutes": 23,
+    "episodeCount": 123,
+    "year": 2000
+  },
+  {
+    "title": "MythBusters",
+    "episodeMinutes": 43,
+    "episodeCount": 114,
+    "year": 2003
+  },
+  {
+    "title": "NCIS",
+    "episodeMinutes": 60,
+    "episodeCount": 507,
+    "year": 2003
+  },
+  {
+    "title": "NCIS: Hawai'i",
+    "episodeMinutes": 45,
+    "episodeCount": 54,
+    "year": 2021
+  },
+  {
+    "title": "NCIS: Los Angeles",
+    "episodeMinutes": 45,
+    "episodeCount": 320,
+    "year": 2009
+  },
+  {
+    "title": "NCIS: New Orleans",
+    "episodeMinutes": 45,
+    "episodeCount": 155,
+    "year": 2014
+  },
+  {
+    "title": "NCIS: Origins",
+    "episodeMinutes": 43,
+    "episodeCount": 36,
+    "year": 2024
+  },
+  {
+    "title": "NCIS: Sydney",
+    "episodeMinutes": 43,
+    "episodeCount": 38,
+    "year": 2023
+  },
+  {
+    "title": "NCIS: Tony & Ziva",
+    "episodeMinutes": 44,
+    "episodeCount": 10,
+    "year": 2025
+  },
+  {
+    "title": "The New Adventures of Winnie the Pooh",
+    "episodeMinutes": 23,
+    "episodeCount": 50,
+    "year": 1988
+  },
+  {
+    "title": "New Amsterdam (2018)",
+    "episodeMinutes": 43,
+    "episodeCount": 89,
+    "year": 2018
+  },
+  {
+    "title": "The New Batman Adventures",
+    "episodeMinutes": 21,
+    "episodeCount": 24,
+    "year": 1997
+  },
+  {
+    "title": "New Girl",
+    "episodeMinutes": 22,
+    "episodeCount": 146,
+    "year": 2011
+  },
+  {
+    "title": "Next",
+    "episodeMinutes": 45,
+    "episodeCount": 10,
+    "year": 2020
+  },
+  {
+    "title": "Nikita",
+    "episodeMinutes": 42,
+    "episodeCount": 73,
+    "year": 2010
+  },
+  {
+    "title": "Nobody Wants This",
+    "episodeMinutes": 30,
+    "episodeCount": 20,
+    "year": 2024
+  },
+  {
+    "title": "Numb3rs",
+    "episodeMinutes": 45,
+    "episodeCount": 118,
+    "year": 2005
+  },
+  {
+    "title": "Obi-Wan Kenobi",
+    "episodeMinutes": 45,
+    "episodeCount": 6,
+    "year": 2022
+  },
+  {
+    "title": "The Office (US)",
+    "episodeMinutes": 22,
+    "episodeCount": 204,
+    "year": 2005
+  },
+  {
+    "title": "Once Upon a Time (2011)",
+    "episodeMinutes": 43,
+    "episodeCount": 156,
+    "year": 2011
+  },
+  {
+    "title": "Once Upon a Time in Wonderland",
+    "episodeMinutes": 45,
+    "episodeCount": 13,
+    "year": 2013
+  },
+  {
+    "title": "Once Upon a Time\u2026 Man",
+    "episodeMinutes": 26,
+    "episodeCount": 26,
+    "year": 1978
+  },
+  {
+    "title": "ONE PIECE (2023)",
+    "episodeMinutes": 60,
+    "episodeCount": 16,
+    "year": 2023
+  },
+  {
+    "title": "One Summer Adventure",
+    "episodeMinutes": 52,
+    "episodeCount": 26,
+    "year": 2015
+  },
+  {
+    "title": "Only Murders in the Building",
+    "episodeMinutes": 30,
+    "episodeCount": 50,
+    "year": 2021
+  },
+  {
+    "title": "The Orville",
+    "episodeMinutes": 45,
+    "episodeCount": 36,
+    "year": 2017
+  },
+  {
+    "title": "Our Great National Parks",
+    "episodeMinutes": 54,
+    "episodeCount": 5,
+    "year": 2022
+  },
+  {
+    "title": "Our Planet (2019)",
+    "episodeMinutes": 50,
+    "episodeCount": 8,
+    "year": 2019
+  },
+  {
+    "title": "Our Universe",
+    "episodeMinutes": 45,
+    "episodeCount": 6,
+    "year": 2022
+  },
+  {
+    "title": "Paper Girls",
+    "episodeMinutes": 45,
+    "episodeCount": 8,
+    "year": 2022
+  },
+  {
+    "title": "Parks and Recreation",
+    "episodeMinutes": 22,
+    "episodeCount": 125,
+    "year": 2009
+  },
+  {
+    "title": "Party of Five",
+    "episodeMinutes": 42,
+    "episodeCount": 142,
+    "year": 1994
+  },
+  {
+    "title": "The Penguin",
+    "episodeMinutes": 60,
+    "episodeCount": 8,
+    "year": 2024
+  },
+  {
+    "title": "A Perfect Planet",
+    "episodeMinutes": 44,
+    "episodeCount": 5,
+    "year": 2021
+  },
+  {
+    "title": "Pixar Popcorn",
+    "episodeMinutes": 3,
+    "episodeCount": 10,
+    "year": 2021
+  },
+  {
+    "title": "Planet Earth",
+    "episodeMinutes": 50,
+    "episodeCount": 14,
+    "year": 2006
+  },
+  {
+    "title": "Planet Earth II",
+    "episodeMinutes": 50,
+    "episodeCount": 12,
+    "year": 2016
+  },
+  {
+    "title": "Planet Earth III",
+    "episodeMinutes": 58,
+    "episodeCount": 10,
+    "year": 2023
+  },
+  {
+    "title": "The Planets (2019)",
+    "episodeMinutes": 60,
+    "episodeCount": 5,
+    "year": 2019
+  },
+  {
+    "title": "Pok\u00e9mon",
+    "episodeMinutes": 25,
+    "episodeCount": 1009,
+    "year": 1997
+  },
+  {
+    "title": "Poker Face",
+    "episodeMinutes": 60,
+    "episodeCount": 22,
+    "year": 2023
+  },
+  {
+    "title": "Poppa\u2019s House",
+    "episodeMinutes": 21,
+    "episodeCount": 18,
+    "year": 2024
+  },
+  {
+    "title": "Prehistoric Planet",
+    "episodeMinutes": 40,
+    "episodeCount": 15,
+    "year": 2022
+  },
+  {
+    "title": "Prison Break",
+    "episodeMinutes": 44,
+    "episodeCount": 90,
+    "year": 2005
+  },
+  {
+    "title": "Psych",
+    "episodeMinutes": 43,
+    "episodeCount": 122,
+    "year": 2006
+  },
+  {
+    "title": "Quantum Leap",
+    "episodeMinutes": 48,
+    "episodeCount": 95,
+    "year": 1989
+  },
+  {
+    "title": "Quantum Leap (2022)",
+    "episodeMinutes": 42,
+    "episodeCount": 31,
+    "year": 2022
+  },
+  {
+    "title": "Rapunzel's Tangled Adventure",
+    "episodeMinutes": 22,
+    "episodeCount": 60,
+    "year": 2017
+  },
+  {
+    "title": "Reacher",
+    "episodeMinutes": 50,
+    "episodeCount": 24,
+    "year": 2022
+  },
+  {
+    "title": "Relic Hunter",
+    "episodeMinutes": 45,
+    "episodeCount": 66,
+    "year": 1999
+  },
+  {
+    "title": "Resident Alien",
+    "episodeMinutes": 45,
+    "episodeCount": 44,
+    "year": 2021
+  },
+  {
+    "title": "Resurrection",
+    "episodeMinutes": 43,
+    "episodeCount": 21,
+    "year": 2013
+  },
+  {
+    "title": "Rick and Morty",
+    "episodeMinutes": 23,
+    "episodeCount": 81,
+    "year": 2013
+  },
+  {
+    "title": "Robbie Williams",
+    "episodeMinutes": 50,
+    "episodeCount": 4,
+    "year": 2023
+  },
+  {
+    "title": "Ronaldinho: The One and Only",
+    "episodeMinutes": 55,
+    "episodeCount": 3,
+    "year": 2026
+  },
+  {
+    "title": "The Rookie",
+    "episodeMinutes": 43,
+    "episodeCount": 126,
+    "year": 2018
+  },
+  {
+    "title": "S.W.A.T. (2017)",
+    "episodeMinutes": 45,
+    "episodeCount": 163,
+    "year": 2017
+  },
+  {
+    "title": "Sabrina The Teenage Witch (1969)",
+    "episodeMinutes": 30,
+    "episodeCount": 162,
+    "year": 1969
+  },
+  {
+    "title": "Sabrina, The Teenage Witch",
+    "episodeMinutes": 22,
+    "episodeCount": 204,
+    "year": 1996
+  },
+  {
+    "title": "Samantha Who?",
+    "episodeMinutes": 25,
+    "episodeCount": 35,
+    "year": 2007
+  },
+  {
+    "title": "Santa Clarita Diet",
+    "episodeMinutes": 30,
+    "episodeCount": 30,
+    "year": 2017
+  },
+  {
+    "title": "Schmigadoon!",
+    "episodeMinutes": 30,
+    "episodeCount": 12,
+    "year": 2021
+  },
+  {
+    "title": "Scooby-Doo and Guess Who?",
+    "episodeMinutes": 22,
+    "episodeCount": 27,
+    "year": 2019
+  },
+  {
+    "title": "Scooby-Doo, Where Are You!",
+    "episodeMinutes": 22,
+    "episodeCount": 25,
+    "year": 1969
+  },
+  {
+    "title": "Scooby-Doo! Mystery Incorporated",
+    "episodeMinutes": 22,
+    "episodeCount": 52,
+    "year": 2010
+  },
+  {
+    "title": "Scorpion",
+    "episodeMinutes": 43,
+    "episodeCount": 92,
+    "year": 2014
+  },
+  {
+    "title": "Scream Queens",
+    "episodeMinutes": 42,
+    "episodeCount": 22,
+    "year": 2015
+  },
+  {
+    "title": "Scrubs",
+    "episodeMinutes": 30,
+    "episodeCount": 182,
+    "year": 2001
+  },
+  {
+    "title": "SEAL Team",
+    "episodeMinutes": 43,
+    "episodeCount": 114,
+    "year": 2017
+  },
+  {
+    "title": "The Secret World of Alex Mack",
+    "episodeMinutes": 24,
+    "episodeCount": 78,
+    "year": 1994
+  },
+  {
+    "title": "Secret World of Sound with David Attenborough   ",
+    "episodeMinutes": 45,
+    "episodeCount": 3,
+    "year": 2024
+  },
+  {
+    "title": "Seinfeld",
+    "episodeMinutes": 22,
+    "episodeCount": 172,
+    "year": 1989
+  },
+  {
+    "title": "Senna",
+    "episodeMinutes": 60,
+    "episodeCount": 6,
+    "year": 2024
+  },
+  {
+    "title": "Seven Worlds, One Planet",
+    "episodeMinutes": 58,
+    "episodeCount": 7,
+    "year": 2019
+  },
+  {
+    "title": "Severance",
+    "episodeMinutes": 50,
+    "episodeCount": 19,
+    "year": 2022
+  },
+  {
+    "title": "Sex Education",
+    "episodeMinutes": 60,
+    "episodeCount": 32,
+    "year": 2019
+  },
+  {
+    "title": "Shifting Gears",
+    "episodeMinutes": 22,
+    "episodeCount": 23,
+    "year": 2025
+  },
+  {
+    "title": "Shrinking",
+    "episodeMinutes": 33,
+    "episodeCount": 33,
+    "year": 2023
+  },
+  {
+    "title": "Silicon Valley",
+    "episodeMinutes": 28,
+    "episodeCount": 53,
+    "year": 2014
+  },
+  {
+    "title": "Skins",
+    "episodeMinutes": 44,
+    "episodeCount": 24,
+    "year": 2007
+  },
+  {
+    "title": "Smallville",
+    "episodeMinutes": 43,
+    "episodeCount": 216,
+    "year": 2001
+  },
+  {
+    "title": "Solar System (2024)",
+    "episodeMinutes": 58,
+    "episodeCount": 5,
+    "year": 2024
+  },
+  {
+    "title": "Sonic Prime",
+    "episodeMinutes": 22,
+    "episodeCount": 23,
+    "year": 2022
+  },
+  {
+    "title": "The Sopranos",
+    "episodeMinutes": 55,
+    "episodeCount": 86,
+    "year": 1999
+  },
+  {
+    "title": "South Park",
+    "episodeMinutes": 22,
+    "episodeCount": 328,
+    "year": 1997
+  },
+  {
+    "title": "The Spectacular Spider-Man",
+    "episodeMinutes": 22,
+    "episodeCount": 26,
+    "year": 2008
+  },
+  {
+    "title": "Spider-Man",
+    "episodeMinutes": 21,
+    "episodeCount": 52,
+    "year": 1967
+  },
+  {
+    "title": "Spider-Man and His Amazing Friends",
+    "episodeMinutes": 25,
+    "episodeCount": 24,
+    "year": 1981
+  },
+  {
+    "title": "Spider-Man: The Animated Series",
+    "episodeMinutes": 23,
+    "episodeCount": 65,
+    "year": 1994
+  },
+  {
+    "title": "Spider-Man: The New Animated Series",
+    "episodeMinutes": 21,
+    "episodeCount": 13,
+    "year": 2003
+  },
+  {
+    "title": "Spider-Noir",
+    "episodeMinutes": 45,
+    "episodeCount": 8,
+    "year": 2026
+  },
+  {
+    "title": "Spin City",
+    "episodeMinutes": 22,
+    "episodeCount": 155,
+    "year": 1996
+  },
+  {
+    "title": "SpongeBob SquarePants",
+    "episodeMinutes": 23,
+    "episodeCount": 240,
+    "year": 1999
+  },
+  {
+    "title": "Squid Game",
+    "episodeMinutes": 60,
+    "episodeCount": 22,
+    "year": 2021
+  },
+  {
+    "title": "Star Trek: Enterprise",
+    "episodeMinutes": 44,
+    "episodeCount": 185,
+    "year": 2001
+  },
+  {
+    "title": "Star Wars Rebels",
+    "episodeMinutes": 22,
+    "episodeCount": 71,
+    "year": 2014
+  },
+  {
+    "title": "Star Wars: Maul \u2013 Shadow Lord",
+    "episodeMinutes": 22,
+    "episodeCount": 10,
+    "year": 2026
+  },
+  {
+    "title": "Star Wars: Tales of the Empire",
+    "episodeMinutes": 18,
+    "episodeCount": 6,
+    "year": 2024
+  },
+  {
+    "title": "Star Wars: Tales of the Jedi",
+    "episodeMinutes": 15,
+    "episodeCount": 6,
+    "year": 2022
+  },
+  {
+    "title": "Star Wars: The Bad Batch",
+    "episodeMinutes": 30,
+    "episodeCount": 47,
+    "year": 2021
+  },
+  {
+    "title": "Star Wars: The Clone Wars",
+    "episodeMinutes": 23,
+    "episodeCount": 133,
+    "year": 2008
+  },
+  {
+    "title": "Star Wars: Visions",
+    "episodeMinutes": 22,
+    "episodeCount": 18,
+    "year": 2021
+  },
+  {
+    "title": "Stargate SG-1",
+    "episodeMinutes": 42,
+    "episodeCount": 214,
+    "year": 1997
+  },
+  {
+    "title": "Stargate Universe",
+    "episodeMinutes": 45,
+    "episodeCount": 100,
+    "year": 2009
+  },
+  {
+    "title": "Stargirl",
+    "episodeMinutes": 43,
+    "episodeCount": 39,
+    "year": 2020
+  },
+  {
+    "title": "Step by Step",
+    "episodeMinutes": 20,
+    "episodeCount": 159,
+    "year": 1991
+  },
+  {
+    "title": "The Story of God with Morgan Freeman",
+    "episodeMinutes": 60,
+    "episodeCount": 15,
+    "year": 2016
+  },
+  {
+    "title": "Stranger Things",
+    "episodeMinutes": 60,
+    "episodeCount": 42,
+    "year": 2016
+  },
+  {
+    "title": "The Summer I Turned Pretty",
+    "episodeMinutes": 45,
+    "episodeCount": 7,
+    "year": 2022
+  },
+  {
+    "title": "Supergirl",
+    "episodeMinutes": 42,
+    "episodeCount": 126,
+    "year": 2015
+  },
+  {
+    "title": "Superman & Lois",
+    "episodeMinutes": 44,
+    "episodeCount": 53,
+    "year": 2021
+  },
+  {
+    "title": "Superman: The Animated Series",
+    "episodeMinutes": 21,
+    "episodeCount": 53,
+    "year": 1996
+  },
+  {
+    "title": "Tacoma FD",
+    "episodeMinutes": 23,
+    "episodeCount": 49,
+    "year": 2019
+  },
+  {
+    "title": "Taxi",
+    "episodeMinutes": 30,
+    "episodeCount": 114,
+    "year": 1978
+  },
+  {
+    "title": "ted",
+    "episodeMinutes": 30,
+    "episodeCount": 15,
+    "year": 2024
+  },
+  {
+    "title": "Terminator Zero",
+    "episodeMinutes": 28,
+    "episodeCount": 8,
+    "year": 2024
+  },
+  {
+    "title": "Terminator: The Sarah Connor Chronicles",
+    "episodeMinutes": 60,
+    "episodeCount": 31,
+    "year": 2008
+  },
+  {
+    "title": "That '70s Show",
+    "episodeMinutes": 25,
+    "episodeCount": 200,
+    "year": 1998
+  },
+  {
+    "title": "That '90s Show",
+    "episodeMinutes": 30,
+    "episodeCount": 26,
+    "year": 2023
+  },
+  {
+    "title": "Through the Wormhole",
+    "episodeMinutes": 44,
+    "episodeCount": 62,
+    "year": 2010
+  },
+  {
+    "title": "The Time Traveler's Wife",
+    "episodeMinutes": 45,
+    "episodeCount": 6,
+    "year": 2022
+  },
+  {
+    "title": "Timeless (2016)",
+    "episodeMinutes": 43,
+    "episodeCount": 27,
+    "year": 2016
+  },
+  {
+    "title": "Tokyo Revengers",
+    "episodeMinutes": 24,
+    "episodeCount": 37,
+    "year": 2021
+  },
+  {
+    "title": "Tokyo Vice",
+    "episodeMinutes": 60,
+    "episodeCount": 18,
+    "year": 2022
+  },
+  {
+    "title": "Tom and Jerry",
+    "episodeMinutes": 7,
+    "episodeCount": 159,
+    "year": 1940
+  },
+  {
+    "title": "Tomb Raider: The Legend of Lara Croft",
+    "episodeMinutes": 30,
+    "episodeCount": 16,
+    "year": 2024
+  },
+  {
+    "title": "Touch (2012)",
+    "episodeMinutes": 43,
+    "episodeCount": 26,
+    "year": 2012
+  },
+  {
+    "title": "Transformers: Prime",
+    "episodeMinutes": 21,
+    "episodeCount": 65,
+    "year": 2010
+  },
+  {
+    "title": "True Detective",
+    "episodeMinutes": 60,
+    "episodeCount": 8,
+    "year": 2014
+  },
+  {
+    "title": "Tulsa King",
+    "episodeMinutes": 40,
+    "episodeCount": 29,
+    "year": 2022
+  },
+  {
+    "title": "Two and a Half Men",
+    "episodeMinutes": 22,
+    "episodeCount": 262,
+    "year": 2003
+  },
+  {
+    "title": "The Umbrella Academy",
+    "episodeMinutes": 60,
+    "episodeCount": 36,
+    "year": 2019
+  },
+  {
+    "title": "Universe",
+    "episodeMinutes": 59,
+    "episodeCount": 5,
+    "year": 2021
+  },
+  {
+    "title": "V.I.P.",
+    "episodeMinutes": 45,
+    "episodeCount": 66,
+    "year": 1998
+  },
+  {
+    "title": "The Vampire Diaries",
+    "episodeMinutes": 43,
+    "episodeCount": 171,
+    "year": 2009
+  },
+  {
+    "title": "Veronica Mars",
+    "episodeMinutes": 42,
+    "episodeCount": 72,
+    "year": 2004
+  },
+  {
+    "title": "Walker, Texas Ranger",
+    "episodeMinutes": 43,
+    "episodeCount": 197,
+    "year": 1993
+  },
+  {
+    "title": "Wednesday",
+    "episodeMinutes": 45,
+    "episodeCount": 16,
+    "year": 2022
+  },
+  {
+    "title": "Westworld",
+    "episodeMinutes": 60,
+    "episodeCount": 36,
+    "year": 2016
+  },
+  {
+    "title": "What I Like About You",
+    "episodeMinutes": 21,
+    "episodeCount": 86,
+    "year": 2002
+  },
+  {
+    "title": "White Collar",
+    "episodeMinutes": 40,
+    "episodeCount": 81,
+    "year": 2009
+  },
+  {
+    "title": "Who Killed Biggie and Tupac?",
+    "episodeMinutes": 42,
+    "episodeCount": 3,
+    "year": 2022
+  },
+  {
+    "title": "Wild Australia",
+    "episodeMinutes": 44,
+    "episodeCount": 4,
+    "year": 2014
+  },
+  {
+    "title": "The Wire",
+    "episodeMinutes": 60,
+    "episodeCount": 60,
+    "year": 2002
+  },
+  {
+    "title": "Without a Trace",
+    "episodeMinutes": 43,
+    "episodeCount": 160,
+    "year": 2002
+  },
+  {
+    "title": "Wolverine",
+    "episodeMinutes": 24,
+    "episodeCount": 12,
+    "year": 2011
+  },
+  {
+    "title": "Wolverine and the X-Men",
+    "episodeMinutes": 22,
+    "episodeCount": 26,
+    "year": 2008
+  },
+  {
+    "title": "Wonder Man",
+    "episodeMinutes": 30,
+    "episodeCount": 8,
+    "year": 2026
+  },
+  {
+    "title": "Wonders of Life",
+    "episodeMinutes": 59,
+    "episodeCount": 5,
+    "year": 2013
+  },
+  {
+    "title": "Wonders of the Solar System",
+    "episodeMinutes": 60,
+    "episodeCount": 5,
+    "year": 2010
+  },
+  {
+    "title": "Wonders of the Universe",
+    "episodeMinutes": 60,
+    "episodeCount": 4,
+    "year": 2011
+  },
+  {
+    "title": "The X-Files",
+    "episodeMinutes": 45,
+    "episodeCount": 218,
+    "year": 1993
+  },
+  {
+    "title": "X-Men",
+    "episodeMinutes": 24,
+    "episodeCount": 12,
+    "year": 2011
+  },
+  {
+    "title": "The Yogi Bear Show",
+    "episodeMinutes": 7,
+    "episodeCount": 68,
+    "year": 1961
+  },
+  {
+    "title": "You",
+    "episodeMinutes": 45,
+    "episodeCount": 50,
+    "year": 2018
+  },
+  {
+    "title": "The Young Indiana Jones Chronicles",
+    "episodeMinutes": 45,
+    "episodeCount": 22,
+    "year": 1992
+  },
+  {
+    "title": "Young Sheldon",
+    "episodeMinutes": 30,
+    "episodeCount": 141,
+    "year": 2017
+  },
+  {
+    "title": "Younger",
+    "episodeMinutes": 21,
+    "episodeCount": 72,
+    "year": 2015
+  },
+  {
+    "title": "Your Friendly Neighborhood Spider-Man",
+    "episodeMinutes": 33,
+    "episodeCount": 10,
+    "year": 2025
+  },
+  {
+    "title": "Zoey's Extraordinary Playlist",
+    "episodeMinutes": 60,
+    "episodeCount": 25,
+    "year": 2020
+  },
+  {
+    "title": "Zootopia+",
+    "episodeMinutes": 8,
+    "episodeCount": 6,
+    "year": 2022
+  },
+  {
+    "title": "Zorro (2024)",
+    "episodeMinutes": 48,
+    "episodeCount": 10,
+    "year": 2024
+  }
+]
