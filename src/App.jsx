@@ -50,6 +50,21 @@ function SearchResults({shows, searchTerm, selectedShows, onAdd}) {
   )
 }
 
+// no filtering here — selectedShows is already the correct list to
+// show; this component just displays it and reports removals upward
+function SelectedList({selectedShows, onRemove}) {
+  return (
+    <div>
+      {selectedShows.map(show => (
+        <div key={`${show.title}-${show.year}`} >
+          <span>{show.title}</span>
+          <button onClick={() => onRemove(show)}>Remove</button>
+        </div>  
+      ))}
+    </div>
+  )
+}
+
 function App() {
   const [searchTerm, setSearchTerm] = useState('')
   const [selectedShows, setSelectedShows] = useState([])
@@ -63,6 +78,14 @@ function App() {
      setSelectedShows([...selectedShows, show])
   }
 
+  // keeps every show EXCEPT the one being removed — the ! flips the
+  // match condition, so filter keeps shows that do NOT match
+  const handleRemove = (show) => {
+    setSelectedShows(selectedShows.filter(selected => (
+      !(selected.title === show.title && selected.year === show.year)
+    )))
+  }
+
   return (
     <>
       <SearchInput value={searchTerm} onSearchChange={searchChange} />
@@ -72,6 +95,7 @@ function App() {
         selectedShows={selectedShows}
         onAdd={handleAdd}
       />
+      <SelectedList selectedShows={selectedShows} onRemove={handleRemove} />
     </>
   )
 }
