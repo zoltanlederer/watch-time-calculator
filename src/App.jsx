@@ -65,6 +65,18 @@ function SelectedList({selectedShows, onRemove}) {
   )
 }
 
+function Total({totalMinutes}){
+  // converts raw minutes into days/hours/minutes for display —
+  // formatting only, App just needs the raw total for its own logic
+  const days = Math.floor(totalMinutes / 1440)
+  const remainingAfterDays = totalMinutes % 1440
+  const hours = Math.floor(remainingAfterDays / 60)
+  const minutes = remainingAfterDays % 60
+  return <p>Total watch time: {days} day(s) {hours} hour(s) {minutes} minute(s)</p>
+}
+
+// sums episodeMinutes × episodeCount across every selected show —
+// the raw total minutes, before any day/hour/minute formatting
 function App() {
   const [searchTerm, setSearchTerm] = useState('')
   const [selectedShows, setSelectedShows] = useState([])
@@ -73,6 +85,10 @@ function App() {
   const searchChange = (event) => {
     setSearchTerm(event.target.value)
   }
+
+  const totalMinutes = selectedShows.reduce((total, show) => {
+    return total + (show.episodeMinutes * show.episodeCount)
+  }, 0)
 
   const handleAdd = (show) => {
      setSelectedShows([...selectedShows, show])
@@ -96,6 +112,7 @@ function App() {
         onAdd={handleAdd}
       />
       <SelectedList selectedShows={selectedShows} onRemove={handleRemove} />
+      <Total totalMinutes={totalMinutes} />
     </>
   )
 }
