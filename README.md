@@ -1,16 +1,34 @@
-# React + Vite
+# Watch Time Calculator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+React practice project — search my personal Plex TV library and 
+calculate total binge-watch time for any combination of shows.
 
-Currently, two official plugins are available:
+Built as a React fundamentals refresher after several years without 
+hands-on practice. Practice project only — not part of my portfolio.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## What it does
 
-## React Compiler
+- Search shows by title (min. 3 characters, case-insensitive)
+- Add/remove shows from a running selection
+- See total watch time (episodes × episode length) formatted as 
+  days/hours/minutes
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## What it's built with
 
-## Expanding the ESLint configuration
+- React (Vite), plain JavaScript — no TypeScript, kept deliberately 
+  separate from concurrent TypeScript practice
+- Local data only — a cleaned export of my Plex library (title, year, 
+  episode count, episode length), no external API calls
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## React concepts practiced
+
+- `useState`, controlled inputs
+- Lifting state up (state lives in `App`, passed down as props)
+- Filtering and rendering lists (`.filter()`, `.map()`, `.reduce()`)
+- Parent → child props, child → parent callback functions
+
+## Related project
+
+Followed by [`binge-watch-calculator`](https://github.com/zoltanlederer/binge-watch-calculator) 
+— same concept, rebuilt against the TMDB public API with posters and 
+a polished UI. That one's portfolio-ready; this one isn't.
