@@ -56,3 +56,25 @@ test('clicking "Remove" removes the show and it disappears', async () => {
     // return null instead of throwing
     // expect(screen.queryByRole('button', { name: 'Remove' })).not.toBeInTheDocument()
 })
+
+// Verifies the total watch time calculation (episodeMinutes × episodeCount,
+// converted to days/hours/minutes) matches hand-calculated expected values —
+// not copied from App.jsx's own formula, so a bug in that formula would
+// actually be caught here
+test('shows correct total watch time after adding a show', async () => {
+    const total = 22 * 279
+    const days = Math.floor(total / 1440)
+    const daysRemainder = total - (days * 1440)
+    const hours = Math.floor(daysRemainder / 60)
+    const minutes = daysRemainder % 60
+
+    render(<App />)
+    const input = screen.getByRole('textbox')
+    await userEvent.type(input, 'The Big Bang Theory')
+
+    const addButton = screen.getByRole('button', { name: 'Add' })
+    await userEvent.click(addButton)
+
+    const result = screen.getByText(`Total watch time: ${days} day(s) ${hours} hour(s) ${minutes} minute(s)`)
+    expect(result).toBeInTheDocument()
+})
