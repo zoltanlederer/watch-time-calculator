@@ -19,3 +19,19 @@ test('shows a matching result when typing', async () => {
   const result = screen.getByText('The Big Bang Theory')
   expect(result).toBeInTheDocument()
 })
+
+// Once a show is added, it should disappear from search results and
+// appear in the selected list — checking for the Remove button confirms
+// it made it into SelectedList (Remove only exists there)
+test('clicking Add moves the show to selected list', async () =>{
+    render(<App />)
+    const input = screen.getByRole('textbox')
+    await userEvent.type(input, 'The Big Bang Theory')
+
+    const addButton = screen.getByRole('button', { name: 'Add' })
+    await userEvent.click(addButton)
+
+    const removeButton = screen.getByRole('button', { name: 'Remove' })
+    expect(removeButton).toBeInTheDocument()
+})
+
